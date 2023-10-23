@@ -1,0 +1,156 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+ }
+
+ body{
+    display: flex;
+justify-content: center;
+padding: 100px;
+
+ }
+
+
+.nav-itens{
+ list-style: none;
+ display: flex;
+}
+
+.nav-itens>li {
+    padding-left: 20px ;
+}
+section{
+    background-color: rgb(96, 96, 158);
+    padding: 15px;
+   text-align:center
+}
+
+header {
+  width: 1px;  
+ 
+}
+
+.tudo{
+    text-align: center;
+   float:left;
+    display:inline;
+    margin:20px;
+    margin-top: 20px;
+    background-color: #C0705b;
+    color:#fff;
+    margin: 70px;
+    padding: 80px;
+
+    
+    
+
+}
+    
+.tudo img{
+  width: 50px;
+  
+
+}
+
+.quemsomos img{
+    display: grid;
+  float:inline;
+  width: 40px;
+  align-items: center;
+  margin: 5px
+}
+
+.imagem img{
+    width: 40px;
+    display: flex;
+}
+
+.imagem p{
+    display: grid;
+    float:none;
+
+}
+
+.quemsomos h1{
+    margin: 20px;
+}
+
+  .tudo{
+    display:inline;
+  align-items: left;
+    
+  }
+
+  .tudo1{
+    left:auto;
+    color:#fff;
+   
+  }
+
+  .tudo5{
+    margin: 15px;
+  }
+
+
+  .contatos{
+    margin-top: 3%;
+    width: 100%;
+  }
+  
+    
+  .icon-contatos{
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    width: 50px; /*largura da img*/
+    height: 50px; /*tamanho da img*/
+    font-size: medium;
+    margin-right: 3%;
+  }
+  
+  .icon-contatos:hover{
+    box-shadow: none;
+    background-color: #E6B0AA;
+    border-radius: 30%; }
+
+    .icon-contatos:hover{
+        box-shadow: none;
+        background-color: #E6B0AA;
+        border-radius: 30%;
+        
+      }
+      
+      .roda-pe{
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        padding: 0;
+        margin-top: 5%; /*separar de uma div pra outra*/
+        height: 300px;
+        width: auto;
+        background-color: #C0705B;
+        color: black;
+        text-align: center;
+        justify-content: center;
+        
+      }
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+

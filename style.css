@@ -1,0 +1,47 @@
+.contatos{
+    margin-top: 3%;
+    width: 100%;
+  }
+  
+    
+  .icon-contatos{
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    width: 50px; /*largura da img*/
+    height: 50px; /*tamanho da img*/
+    font-size: medium;
+    margin-right: 3%;
+  }
+  
+  .icon-contatos:hover{
+    box-shadow: none;
+    background-color: #E6B0AA;
+    border-radius: 30%; }
+
+    .icon-contatos:hover{
+        box-shadow: none;
+        background-color: #E6B0AA;
+        border-radius: 30%;
+        
+      }
+      
+      .roda-pe{
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        padding: 0;
+        margin-top: 5%; /*separar de uma div pra outra*/
+        height: 300px;
+        width: auto;
+        background-color: #C0705B;
+        color: black;
+        text-align: center;
+        justify-content: center;
+        
+      }
+
+
+
+
+    
